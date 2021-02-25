@@ -6,3 +6,12 @@
 body {
   background-color: #efefef;
 }
+
+
+button {
+  margin: 1em;
+}
+
+li {
+  margin-bottom: 1em;
+}
